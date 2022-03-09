@@ -2,7 +2,7 @@
 
 Goal: Create a readble room name for UERJ AVA's room. 
 
-# How to use
+# How to install
 - Clone or Downlaod Repo.
 - Change the "main.js" accordlyng the text in your "AVA" and the text you desire to show.
 - Open the Chrome Extension (Settings/Extensions).
