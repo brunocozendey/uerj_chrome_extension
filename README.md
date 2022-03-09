@@ -1,4 +1,4 @@
-# UERJ Chrome Extensio
+# UERJ Chrome Extension
 
 Goal: Create a readble room name for UERJ AVA's room. 
 
