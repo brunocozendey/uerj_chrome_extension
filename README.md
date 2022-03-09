@@ -10,6 +10,6 @@ Goal: Create a readble room name for UERJ AVA's room.
 - On top left will appear button "Load Unpacked", click on it.
 - Click on the root folder wich you've clonned.
 - Click in open. 
-- The extension will 
+- The extension will appear, just enable it.
 
 
